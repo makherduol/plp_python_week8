@@ -1,0 +1,19 @@
+TOOLKIT PLAN
+
+1. Tools Chosen:
+   - Tool 1: Number Guessing Game (A game where the user guesses a secret number between 1 and 10 with hints).
+   - Tool 2: Dynamic Todo List (A list manager where users can add and view tasks that persist during the session).
+   - Tool 3: Simple Tip Calculator (A calculator that computes tip amounts and total bills based on user inputs).
+
+2. Menu Text:
+   === PERSONAL MINI-TOOLKIT ===
+   1. Number Guessing Game
+   2. Dynamic Todo List
+   3. Simple Tip Calculator
+   4. Quit
+   Enter your choice (1-4): 
+
+3. Concepts Used per Tool:
+   - Number Guessing Game: Loop, conditionals, f-strings.
+   - Dynamic Todo List: Loop, list that changes at runtime, conditionals, f-strings.
+   - Simple Tip Calculator: Conditionals, arithmetic operations, f-strings.
